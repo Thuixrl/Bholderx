@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.mb{
+    display: inline-block;
+}

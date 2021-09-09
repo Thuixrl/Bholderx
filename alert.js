@@ -1,0 +1,1 @@
+window.alert("você está sendo redirecionado para a pagina principal em 5 segundos")
